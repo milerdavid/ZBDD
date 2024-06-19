@@ -35,7 +35,7 @@ LCTRL / LALT: Speed up or slow down resizing/moving operations.
 ZBDD_map: Optimizing Rendering Distance
 -
 
-This is the main brain behind enhancing the draw distance of objects within predefined zones, ensuring they remain visible from greater distances. The code is fully compatible with standard MTA Race servers and current MGM servers, and it works with any server-specific draw distance features without causing conflicts. By processing everything at the start, it minimizes any performance impact during gameplay. Once set up, there is nothing running anymore, reducing the risk of any performance issues while players are driving.
+This is the main brain behind enhancing the draw distance of objects within predefined zones. The code is fully compatible with standard MTA Race servers and current MGM servers, and it works with any server-specific draw distance features without causing conflicts. By processing everything at the start, it minimizes any performance impact during gameplay. Once set up, there is nothing running anymore, reducing the risk of any performance issues while players are driving.
 
 **Configuration (ZBDD_config.json)**
 
