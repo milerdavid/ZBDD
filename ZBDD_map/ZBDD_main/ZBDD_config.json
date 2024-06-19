@@ -1,0 +1,54 @@
+{
+  "_comment1": "Zone-Based Draw Distance Optimizer by FlashGun",
+  "_comment2": "Toggle debug mode:",
+  "debugMode": false,
+  "_comment3": "EDIT CAREFULLY: Objects per creation batch and interval in ms between batches:",
+  "batchSize": 50,
+  "batchInterval": 100,
+  "_comment4": "VERY IMPORTANT: List all of your objects used to make track here - only if they were captured in any of your shapes! Not doing that will make your track collisionless.",
+  "trackObjects": [
+    6959,
+    8838,
+    3458,
+    1894,
+    3437,
+    7657,
+    8558,
+    18449,
+    18450
+  ],
+  "_comment5": "Global exclusion list applied to all shapes. Race pickup objects(2221, 2222, 2223), skybox objects and other script-generated objects should always be included to avoid issues.",
+  "globalExclude": [
+    2221,
+    2222,
+    2223,
+    15057,
+    1318,
+    345,
+    3877,
+    3530,
+    3115,
+    3786
+  ],
+  "_comment6": "Enhancement shapes configuration: - 'type': Shape type ('cuboid' or 'sphere'). 'x', 'y', 'z': Coordinates of the shape. 'width', 'depth', 'height': Dimensions of the cuboid. 'radius': Radius of the sphere. 'exclude': List of object IDs excluded from enhancements within this specific shape.",
+  "shapes": [
+    {
+      "type": "cuboid",
+      "x": 3473.83438,
+      "y": -2018.310225,
+      "z": 34.433836,
+      "width": 74.302186,
+      "depth": 74.302186,
+      "height": 74.302186,
+      "exclude": []
+    },
+    {
+      "type": "sphere",
+      "x": 3508.096819,
+      "y": -2101.850584,
+      "z": 66.665273,
+      "radius": 42.468348,
+      "exclude": []
+    }
+  ]
+}

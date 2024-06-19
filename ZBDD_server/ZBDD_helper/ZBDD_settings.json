@@ -1,0 +1,8 @@
+{   
+    "_info": "ColShape Creation Tool for ZBDD by FlashGun",
+    "defaultSizeX": 10,
+    "defaultSizeY": 10,
+    "defaultSizeZ": 10,
+    "moveSpeed": 0.5,
+    "resizeSpeed": 0.01
+}

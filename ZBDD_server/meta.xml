@@ -1,0 +1,6 @@
+<meta>
+    <info name="ColShape Creation Tool for ZBDD" author="FlashGun" version="1.0" type="script" />
+    <script src="ZBDD_helper/ZBDD_helper.luac" type="client" /> 
+    <file src="ZBDD_helper/ZBDD_settings.json" type="client" />
+    <file src="ZBDD_helper/shader.fx" type="client" />
+</meta>

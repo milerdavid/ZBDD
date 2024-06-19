@@ -1,0 +1,5 @@
+<meta>
+    <info name="Zone-Based Draw Distance Optimizer" author="FlashGun" version="1.0" type="script" />
+    <script src="ZBDD_main/ZBDD_main.luac" type="client" /> 
+    <file src="ZBDD_main/ZBDD_config.json" type="client" />
+</meta>
